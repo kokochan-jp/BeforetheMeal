@@ -544,7 +544,7 @@ MonoBehaviour:
   minHorizontalSpacing: 0.8
   spawnY: -3.06
   moveSpeed: 5
-  spawnChancePerBeat: 0.7
+  spawnChancePerBeat: 1
   safetyMarginSeconds: 0.09
   maxJitterSeconds: 0.06
   stopSecondsBeforeEnd: 4

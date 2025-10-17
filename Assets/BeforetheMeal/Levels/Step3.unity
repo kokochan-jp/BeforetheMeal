@@ -328,10 +328,10 @@ MonoBehaviour:
   musicSource: {fileID: 1642292884}
   bpm: 119
   baseSpawnX: -8
-  minHorizontalSpacing: 0.8
+  minHorizontalSpacing: 5
   spawnY: -3.06
-  moveSpeed: 5
-  spawnChancePerBeat: 1
+  moveSpeed: 1
+  spawnChancePerBeat: 1.5
   safetyMarginSeconds: 1
   maxJitterSeconds: 0.06
   stopSecondsBeforeEnd: 3
