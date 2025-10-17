@@ -1,0 +1,4316 @@
+fileFormatVersion: 2
+guid: 31f864c8e811b2b4bb19446c175f654f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7345824661967235257
+    second: daigakuimo-sprite_sheet_0
+  - first:
+      213: -4212291056463514330
+    second: daigakuimo-sprite_sheet_1
+  - first:
+      213: -4045301647583923027
+    second: daigakuimo-sprite_sheet_2
+  - first:
+      213: 7501006745286360783
+    second: daigakuimo-sprite_sheet_3
+  - first:
+      213: 1420077966424587616
+    second: daigakuimo-sprite_sheet_4
+  - first:
+      213: -7831256530811626138
+    second: daigakuimo-sprite_sheet_5
+  - first:
+      213: -7403669835788982609
+    second: daigakuimo-sprite_sheet_6
+  - first:
+      213: -4642840641483647593
+    second: daigakuimo-sprite_sheet_7
+  - first:
+      213: -9063160269056669320
+    second: daigakuimo-sprite_sheet_8
+  - first:
+      213: -6332099379376661699
+    second: daigakuimo-sprite_sheet_9
+  - first:
+      213: -1705887564330778910
+    second: daigakuimo-sprite_sheet_10
+  - first:
+      213: 8389590859941484593
+    second: daigakuimo-sprite_sheet_11
+  - first:
+      213: 6188253776745736599
+    second: daigakuimo-sprite_sheet_12
+  - first:
+      213: 672191267791790806
+    second: daigakuimo-sprite_sheet_13
+  - first:
+      213: -3274299968071784129
+    second: daigakuimo-sprite_sheet_14
+  - first:
+      213: -7180676226503241463
+    second: daigakuimo-sprite_sheet_15
+  - first:
+      213: 3642751156126088388
+    second: daigakuimo-sprite_sheet_16
+  - first:
+      213: 4160241264496222079
+    second: daigakuimo-sprite_sheet_17
+  - first:
+      213: -2927040420944727054
+    second: daigakuimo-sprite_sheet_18
+  - first:
+      213: 2996945512227420756
+    second: daigakuimo-sprite_sheet_19
+  - first:
+      213: 4044242194557066078
+    second: daigakuimo-sprite_sheet_20
+  - first:
+      213: -5904672854391534012
+    second: daigakuimo-sprite_sheet_21
+  - first:
+      213: 8092153734920421292
+    second: daigakuimo-sprite_sheet_22
+  - first:
+      213: -2186172445324846490
+    second: daigakuimo-sprite_sheet_23
+  - first:
+      213: -6671681108426067642
+    second: daigakuimo-sprite_sheet_24
+  - first:
+      213: 5302570642718904844
+    second: daigakuimo-sprite_sheet_25
+  - first:
+      213: -2031865650031918262
+    second: daigakuimo-sprite_sheet_26
+  - first:
+      213: -3426285853963476282
+    second: daigakuimo-sprite_sheet_27
+  - first:
+      213: 8366422310634746378
+    second: daigakuimo-sprite_sheet_28
+  - first:
+      213: 7789203225496758816
+    second: daigakuimo-sprite_sheet_29
+  - first:
+      213: -3956274354235709265
+    second: daigakuimo-sprite_sheet_30
+  - first:
+      213: -5621545661685436455
+    second: daigakuimo-sprite_sheet_31
+  - first:
+      213: 7746809368972901554
+    second: daigakuimo-sprite_sheet_32
+  - first:
+      213: -335231277955893188
+    second: daigakuimo-sprite_sheet_33
+  - first:
+      213: -7392345337030456339
+    second: daigakuimo-sprite_sheet_34
+  - first:
+      213: 5419750491110695053
+    second: daigakuimo-sprite_sheet_35
+  - first:
+      213: -1669463689700112363
+    second: daigakuimo-sprite_sheet_36
+  - first:
+      213: 4717167807462858691
+    second: daigakuimo-sprite_sheet_37
+  - first:
+      213: 526857017313178484
+    second: daigakuimo-sprite_sheet_38
+  - first:
+      213: -5036068157934524191
+    second: daigakuimo-sprite_sheet_39
+  - first:
+      213: -1412391564234221813
+    second: daigakuimo-sprite_sheet_40
+  - first:
+      213: 5004103126952849770
+    second: daigakuimo-sprite_sheet_41
+  - first:
+      213: 9104254705020798829
+    second: daigakuimo-sprite_sheet_42
+  - first:
+      213: 1808861135952077607
+    second: daigakuimo-sprite_sheet_43
+  - first:
+      213: 1479868625702758457
+    second: daigakuimo-sprite_sheet_44
+  - first:
+      213: -1660383822929288765
+    second: daigakuimo-sprite_sheet_45
+  - first:
+      213: -3425715859364101324
+    second: daigakuimo-sprite_sheet_46
+  - first:
+      213: 7970204185618445477
+    second: daigakuimo-sprite_sheet_47
+  - first:
+      213: 5929535047324415930
+    second: daigakuimo-sprite_sheet_48
+  - first:
+      213: 4676920155508712308
+    second: daigakuimo-sprite_sheet_49
+  - first:
+      213: 8677246086111389657
+    second: daigakuimo-sprite_sheet_50
+  - first:
+      213: 4725191598083518085
+    second: daigakuimo-sprite_sheet_51
+  - first:
+      213: 5363727882148329849
+    second: daigakuimo-sprite_sheet_52
+  - first:
+      213: 696650153620712422
+    second: daigakuimo-sprite_sheet_53
+  - first:
+      213: 131726074518824759
+    second: daigakuimo-sprite_sheet_54
+  - first:
+      213: 8386475953691789940
+    second: daigakuimo-sprite_sheet_55
+  - first:
+      213: 8722879449234984460
+    second: daigakuimo-sprite_sheet_56
+  - first:
+      213: 1907831480783676871
+    second: daigakuimo-sprite_sheet_57
+  - first:
+      213: -1848590948317973118
+    second: daigakuimo-sprite_sheet_58
+  - first:
+      213: 5678071455321111760
+    second: daigakuimo-sprite_sheet_59
+  - first:
+      213: 4572418729323203700
+    second: daigakuimo-sprite_sheet_60
+  - first:
+      213: 5575532061106422558
+    second: daigakuimo-sprite_sheet_61
+  - first:
+      213: -958398801105220980
+    second: daigakuimo-sprite_sheet_62
+  - first:
+      213: -8219874285368614358
+    second: daigakuimo-sprite_sheet_63
+  - first:
+      213: 1403644826437255993
+    second: daigakuimo-sprite_sheet_64
+  - first:
+      213: 4125844457435988932
+    second: daigakuimo-sprite_sheet_65
+  - first:
+      213: 4975033834395931592
+    second: daigakuimo-sprite_sheet_66
+  - first:
+      213: -2225219716603847654
+    second: daigakuimo-sprite_sheet_67
+  - first:
+      213: 2332061416358923901
+    second: daigakuimo-sprite_sheet_68
+  - first:
+      213: -587968345919550802
+    second: daigakuimo-sprite_sheet_69
+  - first:
+      213: 2087828986360171992
+    second: daigakuimo-sprite_sheet_70
+  - first:
+      213: 4178351394314690137
+    second: daigakuimo-sprite_sheet_71
+  - first:
+      213: -6542766077382611451
+    second: daigakuimo-sprite_sheet_72
+  - first:
+      213: 8950340281075020053
+    second: daigakuimo-sprite_sheet_73
+  - first:
+      213: 4724871791951033602
+    second: daigakuimo-sprite_sheet_74
+  - first:
+      213: -8994827764253763877
+    second: daigakuimo-sprite_sheet_75
+  - first:
+      213: 1704779654702101763
+    second: daigakuimo-sprite_sheet_76
+  - first:
+      213: 4637075140240437403
+    second: daigakuimo-sprite_sheet_77
+  - first:
+      213: -1087313297449962239
+    second: daigakuimo-sprite_sheet_78
+  - first:
+      213: -5717772340061284989
+    second: daigakuimo-sprite_sheet_79
+  - first:
+      213: -1313913971156218187
+    second: daigakuimo-sprite_sheet_80
+  - first:
+      213: -7010958748373727978
+    second: daigakuimo-sprite_sheet_81
+  - first:
+      213: -5725166478025656812
+    second: daigakuimo-sprite_sheet_82
+  - first:
+      213: -8933997463226744992
+    second: daigakuimo-sprite_sheet_83
+  - first:
+      213: -8761411576088663482
+    second: daigakuimo-sprite_sheet_84
+  - first:
+      213: -5489935126969392632
+    second: daigakuimo-sprite_sheet_85
+  - first:
+      213: -8837651956692724631
+    second: daigakuimo-sprite_sheet_86
+  - first:
+      213: -4931685968556769534
+    second: daigakuimo-sprite_sheet_87
+  - first:
+      213: 3141657673560201381
+    second: daigakuimo-sprite_sheet_88
+  - first:
+      213: -2601608279128396663
+    second: daigakuimo-sprite_sheet_89
+  - first:
+      213: -9103941255475167207
+    second: daigakuimo-sprite_sheet_90
+  - first:
+      213: 8761660086988746569
+    second: daigakuimo-sprite_sheet_91
+  - first:
+      213: -6565704171986073583
+    second: daigakuimo-sprite_sheet_92
+  - first:
+      213: -6214616893161371781
+    second: daigakuimo-sprite_sheet_93
+  - first:
+      213: -3784882439868019875
+    second: daigakuimo-sprite_sheet_94
+  - first:
+      213: -7320332606408470302
+    second: daigakuimo-sprite_sheet_95
+  - first:
+      213: -6849482828904683986
+    second: daigakuimo-sprite_sheet_96
+  - first:
+      213: 7894616021502183588
+    second: daigakuimo-sprite_sheet_97
+  - first:
+      213: -2291386647027161050
+    second: daigakuimo-sprite_sheet_98
+  - first:
+      213: 3708678437109310311
+    second: daigakuimo-sprite_sheet_99
+  - first:
+      213: 3172921121595962798
+    second: daigakuimo-sprite_sheet_100
+  - first:
+      213: -4545843022007313595
+    second: daigakuimo-sprite_sheet_101
+  - first:
+      213: -8239258129593583874
+    second: daigakuimo-sprite_sheet_102
+  - first:
+      213: -3628402687524248094
+    second: daigakuimo-sprite_sheet_103
+  - first:
+      213: 6206612647434449069
+    second: daigakuimo-sprite_sheet_104
+  - first:
+      213: -1101418535009976798
+    second: daigakuimo-sprite_sheet_105
+  - first:
+      213: 612219755765807563
+    second: daigakuimo-sprite_sheet_106
+  - first:
+      213: -7302730329729903521
+    second: daigakuimo-sprite_sheet_107
+  - first:
+      213: 1632512184643714337
+    second: daigakuimo-sprite_sheet_108
+  - first:
+      213: 188750405049663160
+    second: daigakuimo-sprite_sheet_109
+  - first:
+      213: 6863225106358603177
+    second: daigakuimo-sprite_sheet_110
+  - first:
+      213: -3442807410139119395
+    second: daigakuimo-sprite_sheet_111
+  - first:
+      213: -1020632412056543771
+    second: daigakuimo-sprite_sheet_112
+  - first:
+      213: -5827751990808873989
+    second: daigakuimo-sprite_sheet_113
+  - first:
+      213: 1423384761500785053
+    second: daigakuimo-sprite_sheet_114
+  - first:
+      213: 1428127139307731789
+    second: daigakuimo-sprite_sheet_115
+  - first:
+      213: 4624605849100698784
+    second: daigakuimo-sprite_sheet_116
+  - first:
+      213: -3034888808087884712
+    second: daigakuimo-sprite_sheet_117
+  - first:
+      213: 7786466650377935136
+    second: daigakuimo-sprite_sheet_118
+  - first:
+      213: 7176967099669176261
+    second: daigakuimo-sprite_sheet_119
+  - first:
+      213: 9153732899168381977
+    second: daigakuimo-sprite_sheet_120
+  - first:
+      213: 2318523994113625407
+    second: daigakuimo-sprite_sheet_121
+  - first:
+      213: -3144943127247910803
+    second: daigakuimo-sprite_sheet_122
+  - first:
+      213: 7776093336196053440
+    second: daigakuimo-sprite_sheet_123
+  - first:
+      213: -7085845668991954054
+    second: daigakuimo-sprite_sheet_124
+  - first:
+      213: 4178295287874638315
+    second: daigakuimo-sprite_sheet_125
+  - first:
+      213: -2725411960771674251
+    second: daigakuimo-sprite_sheet_126
+  - first:
+      213: -8802224580587585409
+    second: daigakuimo-sprite_sheet_127
+  - first:
+      213: 3869998057601811917
+    second: daigakuimo-sprite_sheet_128
+  - first:
+      213: 5805586094399066695
+    second: daigakuimo-sprite_sheet_129
+  - first:
+      213: 1820658362622005663
+    second: daigakuimo-sprite_sheet_130
+  - first:
+      213: -5171736484209687895
+    second: daigakuimo-sprite_sheet_131
+  - first:
+      213: -5302934508802582487
+    second: daigakuimo-sprite_sheet_132
+  - first:
+      213: -4996156553862096952
+    second: daigakuimo-sprite_sheet_133
+  - first:
+      213: 3896956481298972970
+    second: daigakuimo-sprite_sheet_134
+  - first:
+      213: -764612824819397226
+    second: daigakuimo-sprite_sheet_135
+  - first:
+      213: -2112888276980335857
+    second: daigakuimo-sprite_sheet_136
+  - first:
+      213: 5222009351926337554
+    second: daigakuimo-sprite_sheet_137
+  - first:
+      213: -3843023915557211259
+    second: daigakuimo-sprite_sheet_138
+  - first:
+      213: 2281335870634000388
+    second: daigakuimo-sprite_sheet_139
+  - first:
+      213: -7905378485875706968
+    second: daigakuimo-sprite_sheet_140
+  - first:
+      213: -3011660494205781019
+    second: daigakuimo-sprite_sheet_141
+  - first:
+      213: -8582041473059714640
+    second: daigakuimo-sprite_sheet_142
+  - first:
+      213: -1176934413792414156
+    second: daigakuimo-sprite_sheet_143
+  - first:
+      213: -3576860306877558395
+    second: daigakuimo-sprite_sheet_144
+  - first:
+      213: 189070773592131397
+    second: daigakuimo-sprite_sheet_145
+  - first:
+      213: -312959241456318139
+    second: daigakuimo-sprite_sheet_146
+  - first:
+      213: -2236956772552255228
+    second: daigakuimo-sprite_sheet_147
+  - first:
+      213: 3509229288138961794
+    second: daigakuimo-sprite_sheet_148
+  - first:
+      213: -7378847069096582455
+    second: daigakuimo-sprite_sheet_149
+  - first:
+      213: 1139579863748645809
+    second: daigakuimo-sprite_sheet_150
+  - first:
+      213: 7855024199639222734
+    second: daigakuimo-sprite_sheet_151
+  - first:
+      213: -5580878277263959747
+    second: daigakuimo-sprite_sheet_152
+  - first:
+      213: 3021702232590066925
+    second: daigakuimo-sprite_sheet_153
+  - first:
+      213: -2467061994117212155
+    second: daigakuimo-sprite_sheet_154
+  - first:
+      213: -803269417402222077
+    second: daigakuimo-sprite_sheet_155
+  - first:
+      213: 1701833576963459817
+    second: daigakuimo-sprite_sheet_156
+  - first:
+      213: 2986265709554702320
+    second: daigakuimo-sprite_sheet_157
+  - first:
+      213: -4192675264142357480
+    second: daigakuimo-sprite_sheet_158
+  - first:
+      213: 2643354303963641064
+    second: daigakuimo-sprite_sheet_159
+  - first:
+      213: 9035332040304285167
+    second: daigakuimo-sprite_sheet_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86cd63c9c91f560800000000000000
+      internalID: 7345824661967235257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625ffe01a9fea85c0800000000000000
+      internalID: -4212291056463514330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4357e95933cd7c0800000000000000
+      internalID: -4045301647583923027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce3a9e84ede81860800000000000000
+      internalID: 7501006745286360783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db816f26125b310800000000000000
+      internalID: 1420077966424587616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd3005da9c15390800000000000000
+      internalID: -7831256530811626138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e58bb281e04990800000000000000
+      internalID: -7403669835788982609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795de9f0901519fb0800000000000000
+      internalID: -4642840641483647593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 6309
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879817401cf293280800000000000000
+      internalID: -9063160269056669320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 6309
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b58c1d92ddf18a0800000000000000
+      internalID: -6332099379376661699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 6309
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eebe456c487358e0800000000000000
+      internalID: -1705887564330778910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 6309
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381da9ef60dd6470800000000000000
+      internalID: 8389590859941484593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 6309
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79926eee50811e550800000000000000
+      internalID: 6188253776745736599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d269d9856a145900800000000000000
+      internalID: 672191267791790806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39220be6895f82d0800000000000000
+      internalID: -3274299968071784129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9019e20540d195c90800000000000000
+      internalID: -7180676226503241463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf90a50e6ad8230800000000000000
+      internalID: 3642751156126088388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f183e53652cb930800000000000000
+      internalID: 4160241264496222079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3316ace301167d0800000000000000
+      internalID: -2927040420944727054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a348b901a479920800000000000000
+      internalID: 2996945512227420756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b583049d8002830800000000000000
+      internalID: 4044242194557066078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 5797
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec91fb2536e0ea0800000000000000
+      internalID: -5904672854391534012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 5797
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf38c5a2fa1d4070800000000000000
+      internalID: 8092153734920421292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 5797
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a5aaa6eb729a1e0800000000000000
+      internalID: -2186172445324846490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 5797
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6417495416d6963a0800000000000000
+      internalID: -6671681108426067642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 5797
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02dca3c7e3869940800000000000000
+      internalID: 5302570642718904844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a438782e4fc5dc3e0800000000000000
+      internalID: -2031865650031918262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2af874b236370d0800000000000000
+      internalID: -3426285853963476282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02794aa3c08b1470800000000000000
+      internalID: 8366422310634746378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aaf0b801fc81c60800000000000000
+      internalID: 7789203225496758816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8eac1af6d7819c0800000000000000
+      internalID: -3956274354235709265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe99241024cf1b0800000000000000
+      internalID: -5621545661685436455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3c44a312328b60800000000000000
+      internalID: 7746809368972901554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38b6d7cde4095bf0800000000000000
+      internalID: -335231277955893188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debc841151d196990800000000000000
+      internalID: -7392345337030456339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e6e94b52d63b40800000000000000
+      internalID: 5419750491110695053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51803029e9fd4d8e0800000000000000
+      internalID: -1669463689700112363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 5285
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf5bb5d02fb67140800000000000000
+      internalID: 4717167807462858691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 5285
+        width: 377
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473bf547aa5cf4700800000000000000
+      internalID: 526857017313178484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4773
+        width: 377
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e828ad41ba4c1ab0800000000000000
+      internalID: -5036068157934524191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 4773
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b079f020b5d266ce0800000000000000
+      internalID: -1412391564234221813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 4773
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613275f745227540800000000000000
+      internalID: 5004103126952849770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 4773
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d678175fa6fc85e70800000000000000
+      internalID: 9104254705020798829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 4773
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723ee609e9d5a1910800000000000000
+      internalID: 1808861135952077607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 4773
+        width: 377
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382245acac898410800000000000000
+      internalID: 1479868625702758457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 4773
+        width: 377
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1ae7bc5b125f8e0800000000000000
+      internalID: -1660383822929288765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 4773
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4334e2d73996570d0800000000000000
+      internalID: -3425715859364101324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 4773
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47e179a7adb9e60800000000000000
+      internalID: 7970204185618445477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 4773
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab73003a5b0f94250800000000000000
+      internalID: 5929535047324415930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 4773
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47326ff1a12c7e040800000000000000
+      internalID: 4676920155508712308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 4773
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7615f5755cb6870800000000000000
+      internalID: 8677246086111389657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 4773
+        width: 377
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ead6b29b0439140800000000000000
+      internalID: 4725191598083518085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4261
+        width: 377
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9793f4f271acf6a40800000000000000
+      internalID: 5363727882148329849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 4261
+        width: 377
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba84baf9ffaa900800000000000000
+      internalID: 696650153620712422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 4261
+        width: 377
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737e957ba2cf3d100800000000000000
+      internalID: 131726074518824759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 4261
+        width: 377
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8729427fb26470800000000000000
+      internalID: 8386475953691789940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 4261
+        width: 377
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec43ea4a4ed0970800000000000000
+      internalID: 8722879449234984460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 4261
+        width: 377
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c52b67af9af97a10800000000000000
+      internalID: 1907831480783676871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 4261
+        width: 377
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853186a35c7856e0800000000000000
+      internalID: -1848590948317973118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 4261
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc33b7a7ef8cce40800000000000000
+      internalID: 5678071455321111760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 4261
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c07adcb9e747f30800000000000000
+      internalID: 4572418729323203700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 4261
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13cc008ed4406d40800000000000000
+      internalID: 5575532061106422558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 4261
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a86f24e5513b2f0800000000000000
+      internalID: -958398801105220980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 4261
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226c3263e32ded80800000000000000
+      internalID: -8219874285368614358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 4261
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338b96688fba7310800000000000000
+      internalID: 1403644826437255993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3749
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38cf3aca1f14930800000000000000
+      internalID: 4125844457435988932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3749
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c318bcd9eeda0540800000000000000
+      internalID: 4975033834395931592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 3749
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd1ac157e6e11e0800000000000000
+      internalID: -2225219716603847654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ec77c90852d5020800000000000000
+      internalID: 2332061416358923901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa8a4297ed17d7f0800000000000000
+      internalID: -587968345919550802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd03cbb66579fc10800000000000000
+      internalID: 2087828986360171992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e92ec847c7cf930800000000000000
+      internalID: 4178351394314690137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e222deaec6335a0800000000000000
+      internalID: -6542766077382611451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511b850901ff53c70800000000000000
+      internalID: 8950340281075020053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20531808cdd129140800000000000000
+      internalID: 4724871791951033602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd655d71ec3fb2380800000000000000
+      internalID: -8994827764253763877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f4da401898a710800000000000000
+      internalID: 1704779654702101763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 3749
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9073d295433a5040800000000000000
+      internalID: 4637075140240437403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3237
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105bfe9115619e0f0800000000000000
+      internalID: -1087313297449962239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3237
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385d71cc95466a0b0800000000000000
+      internalID: -5717772340061284989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 3237
+        width: 377
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be8fc3643a04cde0800000000000000
+      internalID: -1313913971156218187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 3237
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615444cf92214be90800000000000000
+      internalID: -7010958748373727978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 3237
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4167e45eb6f1c80b0800000000000000
+      internalID: -5725166478025656812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 3237
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ff02c34a0140480800000000000000
+      internalID: -8933997463226744992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3237
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a6d3c6796396680800000000000000
+      internalID: -8761411576088663482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3237
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ec05c615dfc3b0800000000000000
+      internalID: -5489935126969392632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 3237
+        width: 377
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645bc88e5a5a5580800000000000000
+      internalID: -8837651956692724631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 3237
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f3564adb12f8bb0800000000000000
+      internalID: -4931685968556769534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 3237
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a89f664209699b20800000000000000
+      internalID: 3141657673560201381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 3237
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c26d5dd0b35ebd0800000000000000
+      internalID: -2601608279128396663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 3237
+        width: 377
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100163b9ad48a180800000000000000
+      internalID: -9103941255475167207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2725
+        width: 377
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94faea78d6ba79970800000000000000
+      internalID: 8761660086988746569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2725
+        width: 377
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118487897dee1e4a0800000000000000
+      internalID: -6565704171986073583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2725
+        width: 377
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7789f3bcde31c9a0800000000000000
+      internalID: -6214616893161371781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2725
+        width: 377
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b8d0f5975697bc0800000000000000
+      internalID: -3784882439868019875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2725
+        width: 377
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0505d7744f86a90800000000000000
+      internalID: -7320332606408470302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 2725
+        width: 377
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26afff38afb1f0a0800000000000000
+      internalID: -6849482828904683986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2725
+        width: 377
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8cebfa17f4f8d60800000000000000
+      internalID: 7894616021502183588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 2725
+        width: 377
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286fdc1cfb5330e0800000000000000
+      internalID: -2291386647027161050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2725
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632d0e936fd77330800000000000000
+      internalID: 3708678437109310311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 2725
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5bf0103fa780c20800000000000000
+      internalID: 3172921121595962798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 2725
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd09c3bdbe9e0c0800000000000000
+      internalID: -4545843022007313595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 2725
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef633d4726648ad80800000000000000
+      internalID: -8239258129593583874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 2725
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56b04daf255adc0800000000000000
+      internalID: -3628402687524248094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f6cc9151522650800000000000000
+      internalID: 6206612647434449069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ef2bf8da9f6b0f0800000000000000
+      internalID: -1101418535009976798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b5eacf9a0f7800800000000000000
+      internalID: 612219755765807563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545af5e47d77aa90800000000000000
+      internalID: -7302730329729903521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7f29be29d7a610800000000000000
+      internalID: 1632512184643714337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be323c4e739e9200800000000000000
+      internalID: 188750405049663160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad0c0e0fd21f3f50800000000000000
+      internalID: 6863225106358603177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd04398b6e0b830d0800000000000000
+      internalID: -3442807410139119395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9e119a3cf5d1f0800000000000000
+      internalID: -1020632412056543771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f2cce07aaf1fa0800000000000000
+      internalID: -5827751990808873989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9955ff26e0e0c310800000000000000
+      internalID: 1423384761500785053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 2213
+        width: 377
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3880111ab1d310800000000000000
+      internalID: 1428127139307731789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 2213
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a447dd7486ed2040800000000000000
+      internalID: 4624605849100698784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cec1565b8e1e5d0800000000000000
+      internalID: -3034888808087884712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d33ff9261f0c60800000000000000
+      internalID: 7786466650377935136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf527c4d85b99360800000000000000
+      internalID: 7176967099669176261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cecbfb297980f70800000000000000
+      internalID: 9153732899168381977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dcc50e94d0d2020800000000000000
+      internalID: 2318523994113625407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68059d63eaea54d0800000000000000
+      internalID: -3144943127247910803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97f3490bb3aeb60800000000000000
+      internalID: 7776093336196053440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a739e7e08e40aad90800000000000000
+      internalID: -7085845668991954054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d4704d694cf930800000000000000
+      internalID: 4178295287874638315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f7a93f2446d2ad0800000000000000
+      internalID: -2725411960771674251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f708dd0516738d580800000000000000
+      internalID: -8802224580587585409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5cec0babef4b530800000000000000
+      internalID: 3869998057601811917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 1701
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429a952bc5919050800000000000000
+      internalID: 5805586094399066695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1189
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91dd617227444910800000000000000
+      internalID: 1820658362622005663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1189
+        width: 377
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a201c2911d4a38b0800000000000000
+      internalID: -5171736484209687895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92859af09213866b0800000000000000
+      internalID: -5302934508802582487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c75fc4c5161aaab0800000000000000
+      internalID: -4996156553862096952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a214bf4d545c41630800000000000000
+      internalID: 3896956481298972970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8ee9dfac8365f0800000000000000
+      internalID: -764612824819397226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bff708e438da2e0800000000000000
+      internalID: -2112888276980335857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210565396dd487840800000000000000
+      internalID: 5222009351926337554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583b1e92c16daaac0800000000000000
+      internalID: -3843023915557211259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4000f7623eee8af10800000000000000
+      internalID: 2281335870634000388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3fc5ec6247a4290800000000000000
+      internalID: -7905378485875706968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb79caacbe6436d0800000000000000
+      internalID: -3011660494205781019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 1189
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b90b96ffb676e880800000000000000
+      internalID: -8582041473059714640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43678f5e260baafe0800000000000000
+      internalID: -1176934413792414156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5815e5d70807c5ec0800000000000000
+      internalID: -3576860306877558395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470e59edd6bf9200800000000000000
+      internalID: 189070773592131397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54902df5a3528abf0800000000000000
+      internalID: -312959241456318139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4095e12daabb4f0e0800000000000000
+      internalID: -2236956772552255228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837be2e17943b030800000000000000
+      internalID: 3509229288138961794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2e09a7fa1199990800000000000000
+      internalID: -7378847069096582455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b31deb29d990df00800000000000000
+      internalID: 1139579863748645809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c79154e6a20d60800000000000000
+      internalID: 7855024199639222734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39dcfc86ccbc82b0800000000000000
+      internalID: -5580878277263959747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4298ebb2e3fe920800000000000000
+      internalID: 3021702232590066925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d6c9ff2c33cdd0800000000000000
+      internalID: -2467061994117212155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 677
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3ec488b63ad4f0800000000000000
+      internalID: -803269417402222077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 165
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea4dbd1f902e9710800000000000000
+      internalID: 1701833576963459817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 165
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f710f647d8517920800000000000000
+      internalID: 2986265709554702320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 165
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c4a3e9f00a0d5c0800000000000000
+      internalID: -4192675264142357480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 165
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b04ffbb41fa420800000000000000
+      internalID: 2643354303963641064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daigakuimo-sprite_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 165
+        width: 377
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5da029e92f36d70800000000000000
+      internalID: 9035332040304285167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c52763530890efc44abcaf2a63c20cec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      daigakuimo-sprite_sheet_0: 7345824661967235257
+      daigakuimo-sprite_sheet_1: -4212291056463514330
+      daigakuimo-sprite_sheet_10: -1705887564330778910
+      daigakuimo-sprite_sheet_100: 3172921121595962798
+      daigakuimo-sprite_sheet_101: -4545843022007313595
+      daigakuimo-sprite_sheet_102: -8239258129593583874
+      daigakuimo-sprite_sheet_103: -3628402687524248094
+      daigakuimo-sprite_sheet_104: 6206612647434449069
+      daigakuimo-sprite_sheet_105: -1101418535009976798
+      daigakuimo-sprite_sheet_106: 612219755765807563
+      daigakuimo-sprite_sheet_107: -7302730329729903521
+      daigakuimo-sprite_sheet_108: 1632512184643714337
+      daigakuimo-sprite_sheet_109: 188750405049663160
+      daigakuimo-sprite_sheet_11: 8389590859941484593
+      daigakuimo-sprite_sheet_110: 6863225106358603177
+      daigakuimo-sprite_sheet_111: -3442807410139119395
+      daigakuimo-sprite_sheet_112: -1020632412056543771
+      daigakuimo-sprite_sheet_113: -5827751990808873989
+      daigakuimo-sprite_sheet_114: 1423384761500785053
+      daigakuimo-sprite_sheet_115: 1428127139307731789
+      daigakuimo-sprite_sheet_116: 4624605849100698784
+      daigakuimo-sprite_sheet_117: -3034888808087884712
+      daigakuimo-sprite_sheet_118: 7786466650377935136
+      daigakuimo-sprite_sheet_119: 7176967099669176261
+      daigakuimo-sprite_sheet_12: 6188253776745736599
+      daigakuimo-sprite_sheet_120: 9153732899168381977
+      daigakuimo-sprite_sheet_121: 2318523994113625407
+      daigakuimo-sprite_sheet_122: -3144943127247910803
+      daigakuimo-sprite_sheet_123: 7776093336196053440
+      daigakuimo-sprite_sheet_124: -7085845668991954054
+      daigakuimo-sprite_sheet_125: 4178295287874638315
+      daigakuimo-sprite_sheet_126: -2725411960771674251
+      daigakuimo-sprite_sheet_127: -8802224580587585409
+      daigakuimo-sprite_sheet_128: 3869998057601811917
+      daigakuimo-sprite_sheet_129: 5805586094399066695
+      daigakuimo-sprite_sheet_13: 672191267791790806
+      daigakuimo-sprite_sheet_130: 1820658362622005663
+      daigakuimo-sprite_sheet_131: -5171736484209687895
+      daigakuimo-sprite_sheet_132: -5302934508802582487
+      daigakuimo-sprite_sheet_133: -4996156553862096952
+      daigakuimo-sprite_sheet_134: 3896956481298972970
+      daigakuimo-sprite_sheet_135: -764612824819397226
+      daigakuimo-sprite_sheet_136: -2112888276980335857
+      daigakuimo-sprite_sheet_137: 5222009351926337554
+      daigakuimo-sprite_sheet_138: -3843023915557211259
+      daigakuimo-sprite_sheet_139: 2281335870634000388
+      daigakuimo-sprite_sheet_14: -3274299968071784129
+      daigakuimo-sprite_sheet_140: -7905378485875706968
+      daigakuimo-sprite_sheet_141: -3011660494205781019
+      daigakuimo-sprite_sheet_142: -8582041473059714640
+      daigakuimo-sprite_sheet_143: -1176934413792414156
+      daigakuimo-sprite_sheet_144: -3576860306877558395
+      daigakuimo-sprite_sheet_145: 189070773592131397
+      daigakuimo-sprite_sheet_146: -312959241456318139
+      daigakuimo-sprite_sheet_147: -2236956772552255228
+      daigakuimo-sprite_sheet_148: 3509229288138961794
+      daigakuimo-sprite_sheet_149: -7378847069096582455
+      daigakuimo-sprite_sheet_15: -7180676226503241463
+      daigakuimo-sprite_sheet_150: 1139579863748645809
+      daigakuimo-sprite_sheet_151: 7855024199639222734
+      daigakuimo-sprite_sheet_152: -5580878277263959747
+      daigakuimo-sprite_sheet_153: 3021702232590066925
+      daigakuimo-sprite_sheet_154: -2467061994117212155
+      daigakuimo-sprite_sheet_155: -803269417402222077
+      daigakuimo-sprite_sheet_156: 1701833576963459817
+      daigakuimo-sprite_sheet_157: 2986265709554702320
+      daigakuimo-sprite_sheet_158: -4192675264142357480
+      daigakuimo-sprite_sheet_159: 2643354303963641064
+      daigakuimo-sprite_sheet_16: 3642751156126088388
+      daigakuimo-sprite_sheet_160: 9035332040304285167
+      daigakuimo-sprite_sheet_17: 4160241264496222079
+      daigakuimo-sprite_sheet_18: -2927040420944727054
+      daigakuimo-sprite_sheet_19: 2996945512227420756
+      daigakuimo-sprite_sheet_2: -4045301647583923027
+      daigakuimo-sprite_sheet_20: 4044242194557066078
+      daigakuimo-sprite_sheet_21: -5904672854391534012
+      daigakuimo-sprite_sheet_22: 8092153734920421292
+      daigakuimo-sprite_sheet_23: -2186172445324846490
+      daigakuimo-sprite_sheet_24: -6671681108426067642
+      daigakuimo-sprite_sheet_25: 5302570642718904844
+      daigakuimo-sprite_sheet_26: -2031865650031918262
+      daigakuimo-sprite_sheet_27: -3426285853963476282
+      daigakuimo-sprite_sheet_28: 8366422310634746378
+      daigakuimo-sprite_sheet_29: 7789203225496758816
+      daigakuimo-sprite_sheet_3: 7501006745286360783
+      daigakuimo-sprite_sheet_30: -3956274354235709265
+      daigakuimo-sprite_sheet_31: -5621545661685436455
+      daigakuimo-sprite_sheet_32: 7746809368972901554
+      daigakuimo-sprite_sheet_33: -335231277955893188
+      daigakuimo-sprite_sheet_34: -7392345337030456339
+      daigakuimo-sprite_sheet_35: 5419750491110695053
+      daigakuimo-sprite_sheet_36: -1669463689700112363
+      daigakuimo-sprite_sheet_37: 4717167807462858691
+      daigakuimo-sprite_sheet_38: 526857017313178484
+      daigakuimo-sprite_sheet_39: -5036068157934524191
+      daigakuimo-sprite_sheet_4: 1420077966424587616
+      daigakuimo-sprite_sheet_40: -1412391564234221813
+      daigakuimo-sprite_sheet_41: 5004103126952849770
+      daigakuimo-sprite_sheet_42: 9104254705020798829
+      daigakuimo-sprite_sheet_43: 1808861135952077607
+      daigakuimo-sprite_sheet_44: 1479868625702758457
+      daigakuimo-sprite_sheet_45: -1660383822929288765
+      daigakuimo-sprite_sheet_46: -3425715859364101324
+      daigakuimo-sprite_sheet_47: 7970204185618445477
+      daigakuimo-sprite_sheet_48: 5929535047324415930
+      daigakuimo-sprite_sheet_49: 4676920155508712308
+      daigakuimo-sprite_sheet_5: -7831256530811626138
+      daigakuimo-sprite_sheet_50: 8677246086111389657
+      daigakuimo-sprite_sheet_51: 4725191598083518085
+      daigakuimo-sprite_sheet_52: 5363727882148329849
+      daigakuimo-sprite_sheet_53: 696650153620712422
+      daigakuimo-sprite_sheet_54: 131726074518824759
+      daigakuimo-sprite_sheet_55: 8386475953691789940
+      daigakuimo-sprite_sheet_56: 8722879449234984460
+      daigakuimo-sprite_sheet_57: 1907831480783676871
+      daigakuimo-sprite_sheet_58: -1848590948317973118
+      daigakuimo-sprite_sheet_59: 5678071455321111760
+      daigakuimo-sprite_sheet_6: -7403669835788982609
+      daigakuimo-sprite_sheet_60: 4572418729323203700
+      daigakuimo-sprite_sheet_61: 5575532061106422558
+      daigakuimo-sprite_sheet_62: -958398801105220980
+      daigakuimo-sprite_sheet_63: -8219874285368614358
+      daigakuimo-sprite_sheet_64: 1403644826437255993
+      daigakuimo-sprite_sheet_65: 4125844457435988932
+      daigakuimo-sprite_sheet_66: 4975033834395931592
+      daigakuimo-sprite_sheet_67: -2225219716603847654
+      daigakuimo-sprite_sheet_68: 2332061416358923901
+      daigakuimo-sprite_sheet_69: -587968345919550802
+      daigakuimo-sprite_sheet_7: -4642840641483647593
+      daigakuimo-sprite_sheet_70: 2087828986360171992
+      daigakuimo-sprite_sheet_71: 4178351394314690137
+      daigakuimo-sprite_sheet_72: -6542766077382611451
+      daigakuimo-sprite_sheet_73: 8950340281075020053
+      daigakuimo-sprite_sheet_74: 4724871791951033602
+      daigakuimo-sprite_sheet_75: -8994827764253763877
+      daigakuimo-sprite_sheet_76: 1704779654702101763
+      daigakuimo-sprite_sheet_77: 4637075140240437403
+      daigakuimo-sprite_sheet_78: -1087313297449962239
+      daigakuimo-sprite_sheet_79: -5717772340061284989
+      daigakuimo-sprite_sheet_8: -9063160269056669320
+      daigakuimo-sprite_sheet_80: -1313913971156218187
+      daigakuimo-sprite_sheet_81: -7010958748373727978
+      daigakuimo-sprite_sheet_82: -5725166478025656812
+      daigakuimo-sprite_sheet_83: -8933997463226744992
+      daigakuimo-sprite_sheet_84: -8761411576088663482
+      daigakuimo-sprite_sheet_85: -5489935126969392632
+      daigakuimo-sprite_sheet_86: -8837651956692724631
+      daigakuimo-sprite_sheet_87: -4931685968556769534
+      daigakuimo-sprite_sheet_88: 3141657673560201381
+      daigakuimo-sprite_sheet_89: -2601608279128396663
+      daigakuimo-sprite_sheet_9: -6332099379376661699
+      daigakuimo-sprite_sheet_90: -9103941255475167207
+      daigakuimo-sprite_sheet_91: 8761660086988746569
+      daigakuimo-sprite_sheet_92: -6565704171986073583
+      daigakuimo-sprite_sheet_93: -6214616893161371781
+      daigakuimo-sprite_sheet_94: -3784882439868019875
+      daigakuimo-sprite_sheet_95: -7320332606408470302
+      daigakuimo-sprite_sheet_96: -6849482828904683986
+      daigakuimo-sprite_sheet_97: 7894616021502183588
+      daigakuimo-sprite_sheet_98: -2291386647027161050
+      daigakuimo-sprite_sheet_99: 3708678437109310311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
