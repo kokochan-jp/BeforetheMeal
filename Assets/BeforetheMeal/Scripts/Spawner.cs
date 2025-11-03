@@ -22,6 +22,14 @@ public class RhythmSpawner : MonoBehaviour
     private float secondsPerBeat;
     private float nextSpawnTime;
 
+ 
+
+    void Awake()
+    {
+        enabled = false; // disable until MusicDelay triggers it
+    }
+
+
     void Start()
     {
         secondsPerBeat = 60f / bpm;
@@ -86,4 +94,11 @@ public class RhythmSpawner : MonoBehaviour
             }
         }
     }
+    public void StartSpawning()
+    {
+        secondsPerBeat = 60f / bpm;
+        nextSpawnTime = Time.time + safetyMarginSeconds;
+        enabled = true;
+    }
+
 }
