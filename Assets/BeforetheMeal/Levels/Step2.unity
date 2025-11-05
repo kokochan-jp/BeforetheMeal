@@ -869,7 +869,7 @@ MonoBehaviour:
   baseSpawnX: -8
   minHorizontalSpacing: 0.8
   spawnY: -3.06
-  moveSpeed: 5
+  moveSpeed: 4
   spawnChancePerBeat: 1
   safetyMarginSeconds: 0.09
   maxJitterSeconds: 0.06
@@ -2047,7 +2047,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectToPool: {fileID: 1537541402749605706, guid: fbbe8c73a1703ea4b8391d563100dadf, type: 3}
-  amountToPool: 10
+  amountToPool: 8
 --- !u!4 &1025962579
 Transform:
   m_ObjectHideFlags: 0
@@ -3208,8 +3208,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -420, y: 244.1}
-  m_SizeDelta: {x: 323.01, y: 37.64}
+  m_AnchoredPosition: {x: -442.72, y: 244.1}
+  m_SizeDelta: {x: 368.45, y: 37.64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1711665785
 MonoBehaviour:

@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BeforetheMeal/Levels/Step3.unity
     guid: 49a1d174036ca1f49b1bc06da07ff5ce
+  - enabled: 1
+    path: Assets/BeforetheMeal/Levels/Credit.unity
+    guid: 76600ab6d76780946927f8ad2c4f1f3b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
