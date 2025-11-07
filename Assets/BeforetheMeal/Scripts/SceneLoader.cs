@@ -1,6 +1,9 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 public class SceneLoader : MonoBehaviour
 {
@@ -17,6 +20,10 @@ public class SceneLoader : MonoBehaviour
 
     public void QuiApp()
     {
+#if UNITY_EDITOR
+        EditorApplication.isPlaying = false;
+#else
         Application.Quit();
+#endif
     }
 }
