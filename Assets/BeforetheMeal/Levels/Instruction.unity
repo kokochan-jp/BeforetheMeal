@@ -982,9 +982,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.2
-  m_Text: "Welcome to Before the Meal! \nToday, you are going to make caramerized
-    sweet potato. Cut, fry, cook, that's all you need to do. Indulge yourself in
-    the rhythm of the kitchen!"
+  m_Text: "Welcome to Before the Meal! \nYou are going to make \"Daigaku Imo\". Cut,
+    fry, cook, that's all you need to do. Indulge yourself in the rhythm of the kitchen!"
 --- !u!222 &451823774
 CanvasRenderer:
   m_ObjectHideFlags: 0

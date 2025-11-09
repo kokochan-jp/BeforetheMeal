@@ -12,6 +12,8 @@ public class RhythmSpawner : MonoBehaviour
     public float minHorizontalSpacing = 0.8f; // Minimum distance between potatoes
     public float spawnY = -3f;
     public float moveSpeed = 5f;
+    public Transform spawnposition;
+    public MusicSheets sheet;
 
     [Header("Spawn Settings")]
     public float spawnChancePerBeat = 1f;
@@ -21,11 +23,18 @@ public class RhythmSpawner : MonoBehaviour
 
     private float secondsPerBeat;
     private float nextSpawnTime;
+    private int index = 0;
 
  
 
     void Awake()
     {
+        if (spawnposition != null)
+        {
+            baseSpawnX = spawnposition.position.x;
+            spawnY = spawnposition.position.y;
+        }
+
         enabled = false; // disable until MusicDelay triggers it
     }
 
@@ -46,11 +55,34 @@ public class RhythmSpawner : MonoBehaviour
 
         if (Time.time >= nextSpawnTime)
         {
-            int spawnCount = Mathf.RoundToInt(spawnChancePerBeat);
-            SpawnPotatoes(spawnCount);
+            if (sheet != null)
+            {
+                if (index < sheet.level.Count)
+                {
+                    var beattype = sheet.level[index];
+                    if (beattype == MusicSheets.beattype.Single)
+                    {
+                        SpawnPotatoes(1);
+                    }
+                    else if (beattype == MusicSheets.beattype.Double)
+                    {
+                        SpawnPotatoes(2);
+                    }
+                    else if (beattype == MusicSheets.beattype.Middle)
+                    {
+                        SpawnPotatoes(2);
+                    }
+                        index++;
+                }
+            }
+            else
+            {
 
-            // Add rhythmic jitter for variety
-            nextSpawnTime += secondsPerBeat + Random.Range(-maxJitterSeconds, maxJitterSeconds);
+                int spawnCount = Mathf.RoundToInt(spawnChancePerBeat);
+                SpawnPotatoes(spawnCount);
+            }
+
+            nextSpawnTime += secondsPerBeat;
         }
     }
 
