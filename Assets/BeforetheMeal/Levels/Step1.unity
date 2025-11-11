@@ -311,7 +311,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 3566958304723083394, guid: 8f19b41a5da49f74aa8e654ebdfa1f22, type: 3}
-  m_Color: {r: 0.2528302, g: 0.2528302, b: 0.2528302, a: 1}
+  m_Color: {r: 0.6754716, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -329,9 +329,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 327800124}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.13, y: -2.5481, z: -0.041366894}
-  m_LocalScale: {x: 1.0830591, y: 0.15822254, z: 0.31645095}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.43, y: -2.5433, z: 0}
+  m_LocalScale: {x: 0.35245267, y: 0.15754056, z: 0.10637511}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 884907643}
@@ -365,7 +365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccf534595e08260448956b4c71357d8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 00000000000000000000000001000000000000000000000000000000010000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  level: 0000000000000000000000000100000000000000010000000000000001000000000000000100000000000000010000000000000001000000000000000100000000000000010000000000000000000000010000000200000001000000020000000100000002000000000000000000000000000000010000000000000001000000000000000100000000000000000000000200000001000000020000000100000002000000010000000000000000000000010000000000000001000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 --- !u!4 &370787613
 Transform:
   m_ObjectHideFlags: 0
@@ -555,11 +555,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicSource: {fileID: 1642292884}
-  bpm: 100
+  bpm: 91
   baseSpawnX: -10
   minHorizontalSpacing: 0.5
-  spawnY: -3.06
-  moveSpeed: 3
+  spawnY: -3.17
+  moveSpeed: 5.5
   spawnposition: {fileID: 697681133}
   sheet: {fileID: 370787612}
   spawnChancePerBeat: 1
@@ -1280,7 +1280,7 @@ Transform:
   m_GameObject: {fileID: 697681132}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.04013729, w: 0.9991942}
-  m_LocalPosition: {x: -0, y: -3.17, z: 0}
+  m_LocalPosition: {x: -8.87, y: -3.17, z: 0}
   m_LocalScale: {x: 0.10637511, y: 0.10637511, z: 0.10637511}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1501,13 +1501,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966559816}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.04013729, w: 0.9991942}
-  m_LocalPosition: {x: 4.82, y: -3.17, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.08804805, w: 0.9961162}
+  m_LocalPosition: {x: 5.06, y: -3.172203, z: 0}
   m_LocalScale: {x: 0.10637511, y: 0.10637511, z: 0.10637511}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.601}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10.103}
 --- !u!50 &966559820
 Rigidbody2D:
   serializedVersion: 5
@@ -1569,7 +1569,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -1.286339, y: -0.45143867}
+  m_Offset: {x: 0.19295502, y: -0.2949431}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1579,7 +1579,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 5.1187654, y: 6.5143247}
+  m_Size: {x: 14.347021, y: 9.846304}
   m_EdgeRadius: 0
 --- !u!82 &966559822
 AudioSource:
@@ -1889,7 +1889,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectToPool: {fileID: 7967298819637881218, guid: 098a4148d860f85498462724cc104694, type: 3}
-  amountToPool: 4
+  amountToPool: 10
 --- !u!4 &1025962579
 Transform:
   m_ObjectHideFlags: 0
@@ -2847,7 +2847,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 19176c3b425f493489b6f3424a7b010b, type: 3}
+  m_Resource: {fileID: 8300000, guid: 8aa30f2e9e8b70b49b83a21f3665efcd, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.927
   m_Pitch: 1

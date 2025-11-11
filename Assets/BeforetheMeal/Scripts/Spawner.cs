@@ -45,6 +45,8 @@ public class RhythmSpawner : MonoBehaviour
         nextSpawnTime = Time.time + safetyMarginSeconds;
     }
 
+    /* private int count = 0; */
+
     void Update()
     {
         if (!musicSource.isPlaying) return;
@@ -57,18 +59,22 @@ public class RhythmSpawner : MonoBehaviour
         {
             if (sheet != null)
             {
+                /*Debug.Log("Spawning item # " + ++count);
+                int spawnCount = Mathf.RoundToInt(spawnChancePerBeat);
+                SpawnPotatoes(spawnCount);*/
+
                 if (index < sheet.level.Count)
                 {
                     var beattype = sheet.level[index];
-                    if (beattype == MusicSheets.beattype.Single)
+                    if (beattype == MusicSheets.beattype.Quarter)
                     {
                         SpawnPotatoes(1);
                     }
-                    else if (beattype == MusicSheets.beattype.Double)
+                    else if (beattype == MusicSheets.beattype.Eighth)
                     {
                         SpawnPotatoes(2);
                     }
-                    else if (beattype == MusicSheets.beattype.Middle)
+                    else if (beattype == MusicSheets.beattype.Double)
                     {
                         SpawnPotatoes(2);
                     }

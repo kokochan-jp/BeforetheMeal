@@ -8,7 +8,8 @@ public class MusicSheets : MonoBehaviour
     public enum beattype
     {
         None,
-        Single,
+        Quarter,
+        Eighth,
         Double,
         Middle
     }
