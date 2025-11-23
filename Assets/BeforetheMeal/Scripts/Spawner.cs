@@ -74,11 +74,11 @@ public class RhythmSpawner : MonoBehaviour
                     {
                         SpawnPotatoes(2);
                     }
-                    else if (beattype == MusicSheets.beattype.Double)
+                    else if (beattype == MusicSheets.beattype.SecondEighth)
                     {
-                        SpawnPotatoes(2);
-                    }
-                        index++;
+                        SpawnPotatoes(2, true);
+                    } 
+                    index++;
                 }
             }
             else
@@ -92,10 +92,13 @@ public class RhythmSpawner : MonoBehaviour
         }
     }
 
-    void SpawnPotatoes(int count)
+    void SpawnPotatoes(int count, bool skipFirst = false)
     {
         if (count <= 0) return;
 
+        if (skipFirst && count < 2)
+            return; // nothing to spawn in this case.
+        
         // Adjust spacing based on number of potatoes
         float spacing = Mathf.Max(minHorizontalSpacing, 1f / Mathf.Max(1, count) * 2f); // Example scaling
         float totalWidth = (count - 1) * spacing;
@@ -107,17 +110,11 @@ public class RhythmSpawner : MonoBehaviour
         {
             positions.Add(startX + i * spacing);
         }
-
-        // Shuffle positions randomly for variety
-        for (int i = 0; i < positions.Count; i++)
-        {
-            int randIndex = Random.Range(0, positions.Count);
-            (positions[i], positions[randIndex]) = (positions[randIndex], positions[i]);
-        }
-
+        
         // Spawn each potato
-        foreach (float xPos in positions)
+        for (int i = skipFirst ? 1 : 0; i < count; i++)
         {
+            float xPos = positions[i];
             GameObject potato = ObjectPool.SharedInstance.GetPooledObject();
             if (potato != null)
             {
@@ -129,6 +126,10 @@ public class RhythmSpawner : MonoBehaviour
                 {
                     rb.linearVelocity = Vector2.right * moveSpeed;
                 }
+            }
+            else
+            {
+                Debug.LogError("No potato available; skipping note! This shouldn't happen, maybe you need a bigger pool?");
             }
         }
     }

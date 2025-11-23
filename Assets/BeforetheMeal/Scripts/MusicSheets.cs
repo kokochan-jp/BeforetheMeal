@@ -10,8 +10,7 @@ public class MusicSheets : MonoBehaviour
         None,
         Quarter,
         Eighth,
-        Double,
-        Middle
+        SecondEighth
     }
 
     public List<beattype> level = new();
